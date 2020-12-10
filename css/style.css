@@ -167,35 +167,19 @@ footer {
   align-items: center; }
 
 #pieDePagina__iconoWS {
-  width: 90px;
-  border-radius: 50%; }
-
-#pieDePagina__iconoWS:hover {
-  width: 120px;
+  width: 50px;
   border-radius: 50%; }
 
 #pieDePagina__iconoEM {
-  width: 90px;
-  border-radius: 50%; }
-
-#pieDePagina__iconoEM:hover {
-  width: 120px;
+  width: 50px;
   border-radius: 50%; }
 
 #pieDePagina__iconoIG {
-  width: 90px;
-  border-radius: 50%; }
-
-#pieDePagina__iconoIG:hover {
-  width: 120px;
+  width: 50px;
   border-radius: 50%; }
 
 #pieDePagina__iconoFB {
-  width: 90px;
-  border-radius: 50%; }
-
-#pieDePagina__iconoFB:hover {
-  width: 120px;
+  width: 50px;
   border-radius: 50%; }
 
 @media (max-width: 800px) {
@@ -208,20 +192,20 @@ footer {
   #pieDePagina {
     flex-wrap: nowrap; }
   #pieDePagina__iconoWS {
-    width: 60px;
-    height: 60px;
+    width: 40px;
+    height: 40px;
     border-radius: 50%; }
   #pieDePagina__iconoEM {
-    width: 60px;
-    height: 60px;
+    width: 40px;
+    height: 40px;
     border-radius: 50%; }
   #pieDePagina__iconoFB {
-    width: 60px;
-    height: 60px;
+    width: 40px;
+    height: 40px;
     border-radius: 50%; }
   #pieDePagina__iconoIG {
-    width: 60px;
-    height: 60px;
+    width: 40px;
+    height: 40px;
     border-radius: 50%; }
   #myCarousel {
     max-width: 100%; }
