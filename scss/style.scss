@@ -17,10 +17,9 @@ h1{
 }
 
     /*main*/
-.Introduccion__index {
-    height: 800px;
-}
+
 .Introduccion{
+    height: 800px;
     max-width: 100%;
     display: grid;
     grid-template-rows: auto;
@@ -32,7 +31,7 @@ h1{
     justify-content: center;
     width: 80%;
     padding: 15px;
-    margin: 15px;
+    margin: 50px;
     margin-left: 10%;
     font-style: italic;
     border-style: solid;
@@ -45,7 +44,7 @@ h1{
     justify-content: center;
     width: 80%;
     padding: 15px;
-    margin: 15px;
+    margin: 50px;
     margin-left: 10%;;
     font-style: italic;
     border-style: solid;
@@ -62,6 +61,7 @@ form {
    /*area Contable*/
 
 .contenedor__contable{
+    height: 800px;
     padding: 5px;
     margin: 5px;
     display: grid;
@@ -115,6 +115,7 @@ form {
 
     //  area juridica
 .contenedor__juridica {
+    height: 800px;
     padding: 5px;
     margin: 5px;
     display: grid;
@@ -164,6 +165,7 @@ form {
     @extend .pContable
 }
 .contenedor__sucesiones{
+    height: 800px;
     display: grid;
     grid-template-rows: auto;
     grid-template-columns: 1fr 1fr;
